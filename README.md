@@ -4,7 +4,7 @@ A **spec-driven, evaluated skill** for ensuring AI coding agents write secure SQ
 
 ## What This Is
 
-This is a reusable **skill package** for AI agents—a production-ready example of spec-driven development. Instead of asking an AI agent to "write safe SQL," we provide:
+This is a reusable **skill package** for AI agents: a production-ready example of spec-driven development. Instead of asking an AI agent to "write safe SQL," we provide:
 
 1. **Structured Specification** (`skill.yaml`) - Behavioral rules, constraints, and test scenarios
 2. **Evaluation Framework** (`evaluator.py`) - Automated testing proving the agent actually follows the rules
