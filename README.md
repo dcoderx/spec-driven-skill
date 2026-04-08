@@ -124,11 +124,4 @@ Passed: 5/5 (100%)
 Average Score: 96.4%
 ```
 
-## Further Reading
-
-- [Tessl - Spec-Driven Development](https://tessl.io/blog/how-tessls-products-pioneer-spec-driven-development/)
-- [OWASP SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
-
-## License
-
 MIT
