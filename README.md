@@ -123,5 +123,3 @@ Total Tests: 5
 Passed: 5/5 (100%)
 Average Score: 96.4%
 ```
-
-MIT
